@@ -10,7 +10,7 @@ Rules to be on this list:
 
 | Site | Covered area  | Creator |
 |:-----------|:--|:--|
-| [fragesi.ch](https://fragesi.ch) |  Eidgenössische Stiftungsaussicht | [Eidgenössische Stiftungsaussicht](https://www.edi.admin.ch/) |
+| [fragesi.ch](https://fragesi.ch) |  Eidgenössische Stiftungsaufsicht | [Eidgenössische Stiftungsaufsicht](https://www.edi.admin.ch/) |
 
 ## Unofficial
 
