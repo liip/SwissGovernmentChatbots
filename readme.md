@@ -1,21 +1,22 @@
-# SwissGovernmentChatbots
+# Swiss Government Chatbots
+
+A list of official and unofficial LLM based chatbots related to Swiss government agencies.
+
 Rules to be on this list:
-* Must be a chatbot about some government entity in Switzerland
-* Must be based on some modern-day (as of 2024) LLM AI system (no old-school decision based chatbot)
-* Must be regularly updated 
+* Must be a chatbot about some government entity in Switzerland. Or related to.
+* Must be based on some modern-day (as of 2024) LLM AI system (not an old-school decision based chatbot).
+* Must be regularly updated.
 
 
-
-## Official
+## Official chatbots
 
 | Site | Covered area  | Creator |
 |:-----------|:--|:--|
 | [fragesi.ch](https://fragesi.ch) |  Eidgenössische Stiftungsaufsicht | [Eidgenössische Stiftungsaufsicht](https://www.edi.admin.ch/) |
 
-## Unofficial
+## Unofficial chatbots
 
-
-It’s apparently heavily dominated by Liip sites, but we’re happy to add other chatbots. Report them to us (via a [new issue](https://github.com/liip/SwissGovernmentChatbots/issues/new) for example) or even make a merge request.
+It’s apparently heavily dominated by Liip sites for now, but we’re happy to add other chatbots. Report them (via a [new issue](https://github.com/liip/SwissGovernmentChatbots/issues/new) for example) or even make a merge request.
 
 | Site | Covered area  | Creator | Remarks |
 |:-----------|:--|:--|:--|
@@ -26,7 +27,7 @@ It’s apparently heavily dominated by Liip sites, but we’re happy to add othe
 | [LozärnGPT](https://lozaern.gpt.liip.ch/) | Canton of Lucerne | [Liip](https://liip.ch) | |
 | [LozärnCityGPT](https://lozaerncity.gpt.liip.ch/) | City of Lucerne | [Liip](https://liip.ch) | |
 | [LinkedDataGPT](https://ld.gpt.liip.ch/) | Linked Data of the City of Zurich | [Liip](https://liip.ch) | |
-| [ParlDebateScanner](https://www.parldebatescanner.org/) | Wortprotokolle von [parlament.ch](https://parlament.ch)|[Johannes Hool](https://parldebatescanner.org/about?collabsible=contact) | |
+| [ParlDebateScanner](https://www.parldebatescanner.org/) | Word protocols of [parlament.ch](https://parlament.ch)|[Johannes Hool](https://parldebatescanner.org/about?collabsible=contact) | |
 | [shau.ch](https://shau.ch/) | City of Schaffhausen| [App Manufacture](https://www.appmanufacture.ch/) | |
 | [StrbGPT](https://strb.zuericitygpt.ch/) | Stadtratsbeschlüsse of the City of Zurich | [Liip](https://liip.ch)| |
 | [WintiGPT](https://winti.gpt.liip.ch/) | City of Winterthur | [Liip](https://liip.ch)  | |
