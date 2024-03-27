@@ -26,6 +26,7 @@ It’s apparently heavily dominated by Liip sites, but we’re happy to add othe
 | [LozärnGPT](https://lozaern.gpt.liip.ch/) | Canton of Lucerne | [Liip](https://liip.ch) |
 | [LozärnCityGPT](https://lozaerncity.gpt.liip.ch/) | City of Lucerne | [Liip](https://liip.ch) |
 | [LinkedDataGPT](https://ld.gpt.liip.ch/) | Linked Data of the City of Zurich | [Liip](https://liip.ch) |
+| [ParlDebateScanner](https://www.parldebatescanner.org/) | Wortprotokolle von [parlament.ch](https://parlament.ch)|[Johannes Hool](https://parldebatescanner.org/about?collabsible=contact) |
 | [shau.ch](https://shau.ch/) | City of Schaffhausen| [App Manufacture](https://www.appmanufacture.ch/) |
 | [StrbGPT](https://strb.zuericitygpt.ch/) | Stadtratsbeschlüsse of the City of Zurich | [Liip](https://liip.ch)|
 | [WintiGPT](https://winti.gpt.liip.ch/) | City of Winterthur | [Liip](https://liip.ch)  |
