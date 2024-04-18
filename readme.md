@@ -34,7 +34,7 @@ It’s apparently heavily dominated by Liip sites for now, but we’re happy to 
 | [ZüriCantonGPT](https://zuericanton.gpt.liip.ch/h)          | Canton of Zurich                            | [Liip](https://liip.ch)                           |                                                            |
 | [ZüriCityGPT](https://zuericitygpt.ch)                      | City of Zurich and Tourism Zurich           | [Liip](https://liip.ch)                           | The first, most refined and optimised one of the Liip GPTs |
 
-## unofficial semantic search only sites
+## Unofficial semantic search only sites
 
 | Site                                                    | Covered area                                          | Creator                                                                 | Remarks |
 |:--------------------------------------------------------|:------------------------------------------------------|:------------------------------------------------------------------------|:--------|
