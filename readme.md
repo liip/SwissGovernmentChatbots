@@ -14,6 +14,7 @@ The lists are sorted alphabetically by the site name.
 | Site                             | Covered area                      | Creator                                                       |
 |:---------------------------------|:----------------------------------|:--------------------------------------------------------------|
 | [fragesi.ch](https://fragesi.ch) | Eidgenössische Stiftungsaufsicht  | [Eidgenössische Stiftungsaufsicht](https://www.edi.admin.ch/) |
+| [moudon.ch](https://moudon.ch)   | Commune de Moudon                 | [Liip](https://liip.ch)                                       |
 
 ## Unofficial chatbots
 
