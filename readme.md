@@ -11,10 +11,11 @@ The lists are sorted alphabetically by the site name.
 
 ## Official chatbots
 
-| Site                             | Covered area                      | Creator                                                       |
-|:---------------------------------|:----------------------------------|:--------------------------------------------------------------|
-| [fragesi.ch](https://fragesi.ch) | Eidgenössische Stiftungsaufsicht  | [Eidgenössische Stiftungsaufsicht](https://www.edi.admin.ch/) |
-| [moudon.ch](https://moudon.ch)   | Commune de Moudon                 | [Liip](https://liip.ch)                                       |
+| Site                             | Covered area                     | Creator                                                       |
+|:---------------------------------|:---------------------------------|:--------------------------------------------------------------|
+| [fragesi.ch](https://fragesi.ch) | Eidgenössische Stiftungsaufsicht | [Eidgenössische Stiftungsaufsicht](https://www.edi.admin.ch/) |
+| [moudon.ch](https://moudon.ch)   | Commune de Moudon                | [Liip](https://liip.ch)                                       |
+| [bs.ch/alva](https://bs.ch/alva) | Canton of Basel-Stadt            | [Liip](https://liip.ch)                                       |
 
 ## Unofficial chatbots
 
