@@ -35,6 +35,7 @@ It’s apparently heavily dominated by Liip sites for now, but we’re happy to 
 | [WintiGPT](https://winti.gpt.liip.ch/)                      | City of Winterthur                          | [Liip](https://liip.ch)                           |                                                            |
 | [ZüriCantonGPT](https://zuericanton.gpt.liip.ch/h)          | Canton of Zurich                            | [Liip](https://liip.ch)                           |                                                            |
 | [ZüriCityGPT](https://zuericitygpt.ch)                      | City of Zurich and Tourism Zurich           | [Liip](https://liip.ch)                           | The first, most refined and optimised one of the Liip GPTs |
+| [Wintis LocalMate](https://winti.localmate.ch/)             | City of Winterthur                          | [Centro Labs](https://centrolabs.ch/)             | Winnter project at Hack Winterthur 2026                    |
 
 ## Unofficial semantic search only sites
 
